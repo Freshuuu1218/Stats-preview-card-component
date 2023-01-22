@@ -76,9 +76,6 @@ p{
 @media (min-width: 400px) {
     .wrapper{
         display: flex;
-        height: 45vh;
-        width: 70vw;
-
     }
     .content{
         text-align: left;
@@ -101,7 +98,7 @@ p{
         flex-direction: row;
         align-items: center;
         justify-content: space-between;
-        margin-top: 2rem;
+        margin-top: 6rem;
         width: 90%;
     }
     .number-section{
